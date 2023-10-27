@@ -1,1 +1,1 @@
-A simple pyhton dvd screen with a trail behind it
+A simple python dvd screen with a trail behind it
